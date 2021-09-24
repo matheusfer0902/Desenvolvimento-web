@@ -34,3 +34,9 @@
 ![CONTATO](https://user-images.githubusercontent.com/79976267/133120021-1b670cc7-b9e6-4d60-b514-a7b07826bd9a.png)
 
 Por equanto, apenas HTML e CSS
+
+PAGINA TECBLOG
+
+![image](https://user-images.githubusercontent.com/79976267/134677996-f546ad0f-a5b8-48fc-a3ff-313ed6e9bd71.png)
+
+
