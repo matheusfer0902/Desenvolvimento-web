@@ -39,4 +39,20 @@ PAGINA TECBLOG
 
 ![image](https://user-images.githubusercontent.com/79976267/134677996-f546ad0f-a5b8-48fc-a3ff-313ed6e9bd71.png)
 
+PAGINA NOTICIAS CIDADE
+
+Trabalho de colunas
+
+---HOME---
+![image](https://user-images.githubusercontent.com/79976267/143621921-5c76e28e-4c3a-40c4-8cd7-0d0f208a8961.png)
+
+---BRASIL---
+![image](https://user-images.githubusercontent.com/79976267/143621968-01e693fd-e912-4cb6-a32a-a00621271ebf.png)
+
+---INTERNACIONAL---
+![image](https://user-images.githubusercontent.com/79976267/143621993-c3be189c-daee-4c61-b0fc-164f792d3cdb.png)
+
+
+
+
 
