@@ -59,8 +59,16 @@ Layout líquido
 --- Tamanho normal ---
 ![WhatsApp Image 2021-11-30 at 14 47 36](https://user-images.githubusercontent.com/79976267/144326938-3bd2ba3e-900d-471a-8e13-d08688287a72.jpeg)
 
---- Tamanho mínimo
+--- Tamanho mínimo ---
+
 ![WhatsApp Image 2021-11-30 at 14 48 44](https://user-images.githubusercontent.com/79976267/144326988-c62c1a12-db9c-4826-a5c0-3d2b91c6ecb1.jpeg)
+
+PARALLAX
+
+Site com o efeito parallax
+
+![image_1638397350](https://user-images.githubusercontent.com/79976267/144327168-09dd1000-7d98-4a16-96a0-c98890947751.gif)
+
 
 
 
