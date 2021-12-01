@@ -52,6 +52,16 @@ Trabalho de colunas
 ---INTERNACIONAL---
 ![image](https://user-images.githubusercontent.com/79976267/143621993-c3be189c-daee-4c61-b0fc-164f792d3cdb.png)
 
+CHALÉ HOTEL
+
+Layout líquido 
+
+--- Tamanho normal ---
+![WhatsApp Image 2021-11-30 at 14 47 36](https://user-images.githubusercontent.com/79976267/144326938-3bd2ba3e-900d-471a-8e13-d08688287a72.jpeg)
+
+--- Tamanho mínimo
+![WhatsApp Image 2021-11-30 at 14 48 44](https://user-images.githubusercontent.com/79976267/144326988-c62c1a12-db9c-4826-a5c0-3d2b91c6ecb1.jpeg)
+
 
 
 
